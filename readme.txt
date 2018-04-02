@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 
 hahahahha
 My name is Xinyue Hu.
+Github 
+I am learning git.
